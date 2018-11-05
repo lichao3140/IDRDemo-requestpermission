@@ -1,0 +1,4 @@
+#Tue Oct 23 11:36:49 CST 2018
+base.0=F\:\\mywork\\IDRDemo-requestpermission\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
